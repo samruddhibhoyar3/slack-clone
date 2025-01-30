@@ -11,7 +11,7 @@ const lato = Lato({
 
 export const metadata: Metadata = {
   title: 'Slackzz',
-  description: 'Slack clone codewithlari',
+  description: 'Slack clone',
 };
 
 export const revalidate = 0;
